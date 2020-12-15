@@ -1,5 +1,7 @@
 # Calculator
 
+![](Calculator/Screenshot%20(50).png)
+
 
 Steps to execute this calculator:
 Download the entire code
